@@ -1,13 +1,13 @@
 function string:split(sep)
-        local sep = sep or ":"
+		local sep = sep or ":"
 	local fields = {}
-        local pattern = string.format("([^%s]+)", sep)
-        self:gsub(pattern, function(c) fields[#fields+1] = c end)
-        return fields
+		local pattern = string.format("([^%s]+)", sep)
+		self:gsub(pattern, function(c) fields[#fields+1] = c end)
+		return fields
 end
 
 function string:starts(start)
-   return self:sub(1,string.len(start))==start
+	return self:sub(1,string.len(start))==start
 end
 
 function tail(array)

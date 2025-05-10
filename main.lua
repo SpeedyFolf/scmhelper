@@ -1,5 +1,3 @@
-
-
 local toggleGuiKey = "F4"
 
 
