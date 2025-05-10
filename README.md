@@ -1,10 +1,10 @@
 # scmhelper
 
-This is a Ressource for MTA:SA (https://mtasa.com/) to visualize some opcodes from the game's decompiled main.scm.
+This is a Resource for MTA:SA (https://multitheftauto.com) to visualize some opcodes from the game's decompiled main.scm.
 
 ## Installation
 
-Put the contents of this repository into a subfolder called "scmhelper" in your resources folder, for example `C:\Program Files (x86)\MTA San Andreas 1.5\server\mods\deathmatch\resources\scmhelper`.
+Put the contents of this repository into a subfolder called "scmhelper" in your resources folder, for example `C:\Program Files (x86)\MTA San Andreas 1.6\server\mods\deathmatch\resources\scmhelper`.
 
 ## Usage
 
